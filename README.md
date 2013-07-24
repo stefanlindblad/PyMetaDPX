@@ -3,7 +3,11 @@ PyMetaDPX
 
 Python module for editing DPX metadata
 
-This project is under development,
-i will add a first initial commit,
-when some basic features are working.
-Stay tuned - 17.07.2013
+This project is under development.
+
+First Commit:
+
+Editing SMPTE Timecodes is possible
+First basic Features
+
+24.07.2013
